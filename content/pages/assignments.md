@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: Chinese writing exercises, reading assignments and in-class discussion
+  exercises.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -42,7 +44,7 @@ Course introduction
 2
 {{< tdclose >}}
 {{< tdopen >}}
-Exercises \[Jianti ([PDF]({{< baseurl >}}/resources/mit21g_114s05_2_03j))::Fanti ([PDF]({{< baseurl >}}/resources/mit21g_114s05_2_03f))\]
+Exercises \[Jianti ({{% resource_link 1a175c23-6bc4-ea2e-1232-34a05af7256a "PDF" %}})::Fanti ({{% resource_link 9ccd4648-f70f-4c98-3945-98c0052c779a "PDF" %}})\]
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -59,7 +61,7 @@ Exercises \[Jianti ([PDF]({{< baseurl >}}/resources/mit21g_114s05_2_03j))::Fanti
 3
 {{< tdclose >}}
 {{< tdopen >}}
-Exercises \[Jianti ([PDF]({{< baseurl >}}/resources/mit21g_114s05_2_07j))::Fanti ([PDF]({{< baseurl >}}/resources/mit21g_114s05_2_07f))\]
+Exercises \[Jianti ({{% resource_link bf29c286-035c-2c7a-0013-3ca6e3be3d24 "PDF" %}})::Fanti ({{% resource_link 611c1d0c-59b1-02ba-3a69-a8fcb21f6c0a "PDF" %}})\]
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -97,7 +99,7 @@ Presentations
 5
 {{< tdclose >}}
 {{< tdopen >}}
-Exercises \[Jianti ([PDF]({{< baseurl >}}/resources/mit21g_114s05_2_10j))::Fanti ([PDF]({{< baseurl >}}/resources/mit21g_114s05_2_10f))\]
+Exercises \[Jianti ({{% resource_link bd4db227-76af-728d-c9f5-561262c199d0 "PDF" %}})::Fanti ({{% resource_link b832b1a8-1953-6d74-9cf4-9ce067cfdf5c "PDF" %}})\]
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -163,7 +165,7 @@ Urban/Rural: An Introduction
 9
 {{< tdclose >}}
 {{< tdopen >}}
-Exercises \[Jianti ([PDF]({{< baseurl >}}/resources/mit21g_114s05_2_22j))::Fanti ([PDF]({{< baseurl >}}/resources/mit21g_114s05_2_22f))\]
+Exercises \[Jianti ({{% resource_link 3bf1fccb-e3d0-46c8-2c70-27ebf41c3ad3 "PDF" %}})::Fanti ({{% resource_link 0b83bd2c-9fbd-a3ac-d9c4-29b158c2cc7b "PDF" %}})\]
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -198,7 +200,7 @@ Watch the PBS Frontline Special "[China in the Red](http://www.pbs.org/wgbh/page
 11
 {{< tdclose >}}
 {{< tdopen >}}
-Exercises \[Jianti ([PDF]({{< baseurl >}}/resources/mit21g_114s05_2_24j))::Fanti ([PDF]({{< baseurl >}}/resources/mit21g_114s05_2_22f))\]
+Exercises \[Jianti ({{% resource_link 90b34679-7217-b64a-a6b9-23a3f25116a7 "PDF" %}})::Fanti ({{% resource_link 0b83bd2c-9fbd-a3ac-d9c4-29b158c2cc7b "PDF" %}})\]
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -215,7 +217,7 @@ Exercises \[Jianti ([PDF]({{< baseurl >}}/resources/mit21g_114s05_2_24j))::Fanti
 12
 {{< tdclose >}}
 {{< tdopen >}}
-Exercises \[Jianti ([PDF]({{< baseurl >}}/resources/mit21g_114s05_2_28j))::Fanti ([PDF]({{< baseurl >}}/resources/mit21g_114s05_2_28f))\]
+Exercises \[Jianti ({{% resource_link 2bdf4afa-cdbb-3d78-b764-394ae3b8f34f "PDF" %}})::Fanti ({{% resource_link cf4ba944-f0ed-abd8-4b05-183cf15a3d5f "PDF" %}})\]
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -272,7 +274,7 @@ Review the article we read in this unit.
 {{< tdopen >}}
 
 
-*   Exercises \[Jianti ([PDF]({{< baseurl >}}/resources/mit21g_114s05_3_07j))::Fanti ([PDF]({{< baseurl >}}/resources/mit21g_114s05_3_07f))\]
+*   Exercises \[Jianti ({{% resource_link 1a31a14e-5ba5-9948-24bd-655334314e8b "PDF" %}})::Fanti ({{% resource_link 929607b3-7465-2bff-ba84-e55d9c876df6 "PDF" %}})\]
 *   (8 pages is a lot. Please focus on the main ideas. You can use the study questions in the exercises as a study guide. Bring your questions to class.)
 
 
@@ -306,7 +308,7 @@ Discuss: Part 1 of Chapter 1 of _China Peasants Survey_ (pp. 3-10)
 17
 {{< tdclose >}}
 {{< tdopen >}}
-Exercises \[Jianti ([PDF]({{< baseurl >}}/resources/mit21g_114s05_3_10j))::Fanti ([PDF]({{< baseurl >}}/resources/mit21g_114s05_3_10f))\]
+Exercises \[Jianti ({{% resource_link 59a3157e-f2bb-6248-77de-25b373742db7 "PDF" %}})::Fanti ({{% resource_link bf78ce17-290d-a7fe-2368-bd9e92a58d08 "PDF" %}})\]
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -343,7 +345,7 @@ Watch: _The Accused Uncle Shān'gàng_ (110 minutes). The background, vocabulary
 {{< tdopen >}}
 
 
-*   Exercises \[Jianti ([PDF]({{< baseurl >}}/resources/mit21g_114s05_3_16j))::Fanti ([PDF]({{< baseurl >}}/resources/mit21g_114s05_3_16f))\]
+*   Exercises \[Jianti ({{% resource_link 6d181b8a-817b-df69-a109-44aad5a86ccb "PDF" %}})::Fanti ({{% resource_link 6aee5f8d-cd2e-ca9d-90b2-cd88fa64a5d1 "PDF" %}})\]
 *   FYI: Li Changping presented to Premier Zhu his suggestions for solving the problems in rural China in the second half of his letter. (pp. 6-9)
 
 
@@ -415,7 +417,7 @@ Review the articles we read in this unit.
 
 
 *   Pretty girls are like freshly ground pepper - add a little to wherever the atmosphere is dull. (A well-known sentence from the web.)
-*   Exercises \[Jianti ([PDF]({{< baseurl >}}/resources/mit21g_114s05_3_31j))::Fanti ([PDF]({{< baseurl >}}/resources/mit21g_114s05_3_31f))\]
+*   Exercises \[Jianti ({{% resource_link 1b8c2375-8182-c61e-fb57-ab6423aea56e "PDF" %}})::Fanti ({{% resource_link 63343de9-cf3d-bac4-9e83-ab503d3a2041 "PDF" %}})\]
 *   Watch the [TOM.COM](http://www.tom.com/).
 *   Find out what seems to prove the Beijing Youth Daily journalist's doubts and what seems to conflict with it.
 *   What do you make of the sensational makeover and the fake resumé scandal?
@@ -441,7 +443,7 @@ Review the articles we read in this unit.
 24
 {{< tdclose >}}
 {{< tdopen >}}
-Exercises \[Jianti ([PDF]({{< baseurl >}}/resources/mit21g_114s05_4_04j))::Fanti ([PDF]({{< baseurl >}}/resources/mit21g_114s05_4_04f))\]
+Exercises \[Jianti ({{% resource_link 7431f87f-e677-a8b2-25e7-ad5589956f97 "PDF" %}})::Fanti ({{% resource_link 9154267f-c172-ca6b-0b2a-d004bf472e3d "PDF" %}})\]
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -460,8 +462,8 @@ Exercises \[Jianti ([PDF]({{< baseurl >}}/resources/mit21g_114s05_4_04j))::Fanti
 {{< tdopen >}}
 
 
-*   Exercises \[Jianti ([PDF]({{< baseurl >}}/resources/mit21g_114s05_4_06j_1))::Fanti ([PDF]({{< baseurl >}}/resources/mit21g_114s05_4_06f_1))\]
-*   Exercises \[Jianti ([PDF]({{< baseurl >}}/resources/mit21g_114s05_4_06j_2))::Fanti ([PDF]({{< baseurl >}}/resources/mit21g_114s05_4_06f_2))\]
+*   Exercises \[Jianti ({{% resource_link 378230aa-d10a-2a56-f7f3-71f37a8d6b31 "PDF" %}})::Fanti ({{% resource_link 5bf220a1-8652-1cea-2317-6a8875f72705 "PDF" %}})\]
+*   Exercises \[Jianti ({{% resource_link 510ca792-cafa-01aa-137d-dbf8f735c144 "PDF" %}})::Fanti ({{% resource_link 6f0a75e0-38dc-c775-f75a-5e1714060994 "PDF" %}})\]
 
 
 {{< tdclose >}}
@@ -527,7 +529,7 @@ Review the materials in this unit.
 
 
 *   How do People "Love" in China Now?
-*   Exercises \[Jianti ([PDF]({{< baseurl >}}/resources/mit21g_114s05_4_13j))::Fanti ([PDF]({{< baseurl >}}/resources/mit21g_114s05_4_13f))\]
+*   Exercises \[Jianti ({{% resource_link 03785814-c5de-70c0-14be-aaec1b4825dc "PDF" %}})::Fanti ({{% resource_link 32865eb8-d943-ccbf-71bc-e27ad643bc21 "PDF" %}})\]
 
 
 {{< tdclose >}}
@@ -550,7 +552,7 @@ Review the materials in this unit.
 {{< tdopen >}}
 
 
-*   Exercises \[Jianti ([PDF]({{< baseurl >}}/resources/mit21g_114s05_4_14j))::Fanti ([PDF]({{< baseurl >}}/resources/mit21g_114s05_4_14f))\]
+*   Exercises \[Jianti ({{% resource_link 14c75194-e37c-324c-8ac6-5f5fb084535f "PDF" %}})::Fanti ({{% resource_link 073296f2-b4e7-4150-aa3f-f9697b6fc2c9 "PDF" %}})\]
 *   _Review for Next Class Session_
 *   Watch: _The Road Home_ (85 minutes; No Subtitles) (Study Guide: Jianti::Fanti) and _Cell Phone_ (102 minutes; Chinese Subtitles) (Study Guide: Jianti::Fanti)
 
@@ -597,7 +599,7 @@ Discuss: _The Road Home_ and _Cell Phone_
 {{< tdopen >}}
 
 
-*   Exercises \[Jianti ([PDF]({{< baseurl >}}/resources/mit21g_114s05_4_21j))::Fanti ([PDF]({{< baseurl >}}/resources/mit21g_114s05_4_21f))\]
+*   Exercises \[Jianti ({{% resource_link 6c54eb00-a451-6f89-806e-04cd5fac7873 "PDF" %}})::Fanti ({{% resource_link 99833bb2-32cc-d773-ec99-051aed77e07c "PDF" %}})\]
 *   View the pictures of the people and events mentioned in the text.
 
 
@@ -619,7 +621,7 @@ Discuss: _The Road Home_ and _Cell Phone_
 {{< tdopen >}}
 
 
-*   Exercises \[Jianti ([PDF]({{< baseurl >}}/resources/mit21g_114s05_4_25j))::Fanti ([PDF]({{< baseurl >}}/resources/mit21g_114s05_4_25f))\]
+*   Exercises \[Jianti ({{% resource_link bdbb6342-9cc6-1e6e-e93d-f2da576e9fb7 "PDF" %}})::Fanti ({{% resource_link b646dac6-cb0b-bb95-7b75-fb3ecddf7d7f "PDF" %}})\]
 *   Please email me about what the topic of your final essay will be by today. In your message, please also list URLs for no less than five articles you will use as your major references.
 
 
