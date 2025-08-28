@@ -40,7 +40,7 @@ Session 4: Spring Festival
 {{< tdclose >}}{{< tdopen >}}
 
 - Session 5: Spring Festival
-- Read: "Peasant Workers & Hainan" ([Jianti::Fanti](http://life.people.com.cn/GB/1089/3119952.html))
+- Read: "Peasant Workers & Hainan" ([Jianti::Fanti](https://web.archive.org/web/20051221080632/http://life.people.com.cn/GB/1089/3119952.html))
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 3
