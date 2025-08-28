@@ -70,7 +70,7 @@ Exercises \[Jianti ({{% resource_link "bd4db227-76af-728d-c9f5-561262c199d0" "PD
 - Browse the following web sites and/or pages and find an article for your 5-minute presentation. The article should be no less than half a page and no more than two pages. Please bring to class 9 hard copies for your classmates. When you do the presentation, explain why you have chosen the article, what the article is about, and how it relates to the issues we have discussed in class. Get prepared for questions also.
 - [Spring Festival Reports](http://www.news.cn/) (A comprehensive collection of reports from Xinhua.)
 - [Spring Festival Holiday Transit](http://www.xinhuanet.com/newscenter/cy2005/) (A collection of reports from Xinhua.)
-- [Wishes for the Year of Rooster](http://life.people.com.cn/GB/8223/43362/index.html) (A collection of reports from People's Daily.)
+- [Wishes for the Year of Rooster](https://web.archive.org/web/20061117084554/http://life.people.com.cn/GB/8223/43362/index.html) (A collection of reports from People's Daily.)
 - Apart from these links, you may also surf the web yourself and see what you will find.
 
 {{< tdclose >}}{{< tdopen >}}
@@ -102,7 +102,7 @@ Exercises \[Jianti ({{% resource_link "3bf1fccb-e3d0-46c8-2c70-27ebf41c3ad3" "PD
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 10
 {{< tdclose >}}{{< tdopen >}}
-Watch the PBS Frontline Special "[China in the Red](http://www.pbs.org/wgbh/pages/frontline/shows/red/view/)" (two thumbs up, way up!). Pay special attention to Chapter 3 (Fear and Optimism in the Countryside) and the footage on Guo Xiaolei, a young peasant worker. Questions: What major problems and/or changes in China has the film covered? Are there anything surprising or shocking to you in the film?
+Watch the PBS Frontline Special "[China in the Red](https://www.youtube.com/watch?v=ggc0W5EfUkc)" (two thumbs up, way up!). Pay special attention to Chapter 3 (Fear and Optimism in the Countryside) and the footage on Guo Xiaolei, a young peasant worker. Questions: What major problems and/or changes in China has the film covered? Are there anything surprising or shocking to you in the film?
 {{< tdclose >}}{{< tdopen >}}
 
 - Discuss: "China in the Red"
@@ -184,9 +184,11 @@ Exercises \[Jianti ({{% resource_link "59a3157e-f2bb-6248-77de-25b373742db7" "PD
 Watch: *The Accused Uncle Shān'gàng* (110 minutes). The background, vocabulary and characters sheet (Jianti::Fanti) will help you with understanding the film.
 {{< tdclose >}}{{< tdopen >}}
 
-- Discuss: "Shan'gangye, the Defendent"
--   
-    Discuss common issues reflected in Chapter 1 of *China Peasants Survey* and "Shan'gàngyé, the Defendent"
+## \- Discuss: "Shan'gangye, the Defendent"
+
+```plaintext
+Discuss common issues reflected in Chapter 1 of *China Peasants Survey* and "Shan'gàngyé, the Defendent"
+```
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 19
@@ -374,7 +376,7 @@ Discuss: *The Road Home* and *Cell Phone*
 - Lu Deming: [Renmin](http://news.163.com/special/s/sex041110.html):[SINA](http://finance.sina.com.cn/nz/ssx/index.shtml): [China Sexology Association](http://www.chsa.org.cn/)
 - [My Zen](http://news.sina.com.cn/guide/)
 - Mianmian: Sugar and other works: Panda Sex
-- Mu Zimei: [XinhuaBooks](http://www.news.cn/): [TOM](http://www.tom.com/): Critiques of the MuZimei Phenomenon at [SOHU](http://club.sohu.com/zhuanti/muzimei/muzimei.htm): [SINA](http://club.sohu.com/zhuanti/muzimei/muzimei.htm): [ENorth](http://www.enorth.com.cn/)
+- Mu Zimei: [XinhuaBooks](http://www.news.cn/): [TOM](http://www.tom.com/): Critiques of the MuZimei Phenomenon at [SOHU](https://web.archive.org/web/20060619050305/http://club.sohu.com/zhuanti/muzimei/muzimei.htm): [SINA](https://web.archive.org/web/20060619050305/http://club.sohu.com/zhuanti/muzimei/muzimei.htm): [ENorth](http://www.enorth.com.cn/)
 - Zhuying Qingtong: Huashang
 - Chunshu: [Beijing Kid](http://cul.sina.com.cn/liter/86.html): [The Joy that Lasted for as Long as 12 Hours](http://news.sina.com.cn/guide/): [Looking Up and Seeing the Big Dipper](http://news.sina.com.cn/guide/)
 - Zhao Ning: [Night Makeup](http://news.sina.com.cn/guide/)
