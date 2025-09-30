@@ -46,10 +46,10 @@ Exercises \[Jianti ({{% resource_link "bf29c286-035c-2c7a-0013-3ca6e3be3d24" "PD
 {{< tdclose >}}{{< tdopen >}}
 
 - Browse the following web sites and/or pages and find an article for your 5-minute presentation. The article should be no less than half a page and no more than two pages. Please bring to class 9 hard copies for your classmates. When you do the presentation, explain why you have chosen the article, what the article is about, and how it relates to the issues we have discussed in class. Get prepared for questions also.
-- [China New Year Net](http://www.chinesenewyears.info/) (Zhongguo Chunjie Wang, where you can find out about other customs related to the Spring Festival.)
-- [Direct flights across the Straits](http://www.news.cn/) (A collection of background information and reports from the perspective of the Xinhua News Agency representing Mainland China.)
-- [Chartered Planes](http://www.news.cn/) (A collection of images and reports from the perspective of the Xinhua News Agency.)
-- [Chartered Planes](http://forums.chinatimes.com/report/new0101/directfly/main.htm) (A collection of images and reports from the perspective of China Times representing Taiwan.)
+- {{% resource_link "a091343d-1693-4cde-ae50-b59531c75a8a" "China New Year Net" %}} (Zhongguo Chunjie Wang, where you can find out about other customs related to the Spring Festival.)
+- {{% resource_link "92cedc48-d5f2-4969-aa81-d400908955c8" "Direct flights across the Straits" %}} (A collection of background information and reports from the perspective of the Xinhua News Agency representing Mainland China.)
+- {{% resource_link "92cedc48-d5f2-4969-aa81-d400908955c8" "Chartered Planes" %}} (A collection of images and reports from the perspective of the Xinhua News Agency.)
+- {{% resource_link "a433f194-90b1-4262-964d-eed6c06a9af4" "Chartered Planes" %}} (A collection of images and reports from the perspective of China Times representing Taiwan.)
 - Apart from these links, you may also surf the web yourself and see what you will find.
 
 {{< tdclose >}}{{< tdopen >}}
@@ -68,9 +68,9 @@ Exercises \[Jianti ({{% resource_link "bd4db227-76af-728d-c9f5-561262c199d0" "PD
 {{< tdclose >}}{{< tdopen >}}
 
 - Browse the following web sites and/or pages and find an article for your 5-minute presentation. The article should be no less than half a page and no more than two pages. Please bring to class 9 hard copies for your classmates. When you do the presentation, explain why you have chosen the article, what the article is about, and how it relates to the issues we have discussed in class. Get prepared for questions also.
-- [Spring Festival Reports](http://www.news.cn/) (A comprehensive collection of reports from Xinhua.)
-- [Spring Festival Holiday Transit](http://www.xinhuanet.com/newscenter/cy2005/) (A collection of reports from Xinhua.)
-- [Wishes for the Year of Rooster](https://web.archive.org/web/20061117084554/http://life.people.com.cn/GB/8223/43362/index.html) (A collection of reports from People's Daily.)
+- {{% resource_link "92cedc48-d5f2-4969-aa81-d400908955c8" "Spring Festival Reports" %}} (A comprehensive collection of reports from Xinhua.)
+- {{% resource_link "3dc12620-9d5c-4830-8de5-af7b507af2bf" "Spring Festival Holiday Transit" %}} (A collection of reports from Xinhua.)
+- {{% resource_link "b5fa1a60-2b87-4d77-bd8a-a7a4e29aaeb7" "Wishes for the Year of Rooster" %}} (A collection of reports from People's Daily.)
 - Apart from these links, you may also surf the web yourself and see what you will find.
 
 {{< tdclose >}}{{< tdopen >}}
@@ -102,7 +102,7 @@ Exercises \[Jianti ({{% resource_link "3bf1fccb-e3d0-46c8-2c70-27ebf41c3ad3" "PD
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 10
 {{< tdclose >}}{{< tdopen >}}
-Watch the PBS Frontline Special "[China in the Red](https://www.youtube.com/watch?v=ggc0W5EfUkc)" (two thumbs up, way up!). Pay special attention to Chapter 3 (Fear and Optimism in the Countryside) and the footage on Guo Xiaolei, a young peasant worker. Questions: What major problems and/or changes in China has the film covered? Are there anything surprising or shocking to you in the film?
+Watch the PBS Frontline Special "{{% resource_link "2c363ce3-2c14-40d2-ae8a-be72c748a7de" "China in the Red" %}}" (two thumbs up, way up!). Pay special attention to Chapter 3 (Fear and Optimism in the Countryside) and the footage on Guo Xiaolei, a young peasant worker. Questions: What major problems and/or changes in China has the film covered? Are there anything surprising or shocking to you in the film?
 {{< tdclose >}}{{< tdopen >}}
 
 - Discuss: "China in the Red"
@@ -133,9 +133,9 @@ Exercises \[Jianti ({{% resource_link "2bdf4afa-cdbb-3d78-b764-394ae3b8f34f" "PD
 
 - Browse the following web sites and/or pages and find an article for your 5-minute presentation. The article should be no less than half a page and no more than two pages. Please bring to class 10 hard copies for your classmates. When you do the presentation, explain why you have chosen the article, what the article is about, and how it relates to the issues we have discussed in class. Get prepared for questions also.
 - China Agricultural Development Reports (China's Ministry of Agriculture white books for years 2003, 2002 and 2001. There are 32 items in each white book. To locate the items, look at the tags on the bottom of the web page after clicking a certain year. If you choose to report on this, you may either compare and contrast statistics of 1 item in these three years, or compare and contrast a few items in a particular year.)
-- [Farmer's Daily](http://web.archive.org/web/20181013015629/http://szb.farmer.com.cn/nmrb/html/2016-09/30/nbs.D110000nmrb_01.htm) (Newspaper of the Ministry of Agriculture. A lot of 3-nóng news.)
-- [Going Home for the Spring Festival - Financial Support for College Students from Low-income Households](http://www.news.cn/) (A collection of news reports on college students from low-income households from Xinhuanet.)
-- [Focus: Peasant Workers](https://web.archive.org/web/20040605011231/http://www.people.com.cn/GB/shizheng/8198/30572/) (A collection of news reports on peasant workers from Renmin Daily.)
+- {{% resource_link "3f9b6a56-ee47-4dd8-8de1-9ad08cee4656" "Farmer's Daily" %}} (Newspaper of the Ministry of Agriculture. A lot of 3-nóng news.)
+- {{% resource_link "92cedc48-d5f2-4969-aa81-d400908955c8" "Going Home for the Spring Festival - Financial Support for College Students from Low-income Households" %}} (A collection of news reports on college students from low-income households from Xinhuanet.)
+- {{% resource_link "718d3c89-4e3a-4e98-8faa-88fd47941c5f" "Focus: Peasant Workers" %}} (A collection of news reports on peasant workers from Renmin Daily.)
 - Apart from these links, you may also surf the web yourself and see what you will find.
 
 {{< tdclose >}}{{< tdopen >}}
@@ -207,10 +207,10 @@ Discuss common issues reflected in Chapter 1 of *China Peasants Survey* and "Sha
 {{< tdclose >}}{{< tdopen >}}
 
 - Browse the following web sites and/or pages and find an article for your 5-minute presentation. The article should be no less than half a page and no more than two pages. Please bring to class 10 hard copies for your classmates. When you do the presentation, explain why you have chosen the article, what the article is about, and how it relates to the issues we have discussed in class. Get prepared for questions also.
-- [Reforming the Residence Registration system](https://web.archive.org/web/20030611074636/http://www.people.com.cn/GB/shizheng/252/6093/index.html) (A collection of reports from Renminwang.)
-- [3 Nong](https://web.archive.org/web/20030628195006/http://www.people.com.cn/GB/shizheng/252/8652/8990/index.html), [Urbanization](https://web.archive.org/web/20021216142821/http://www.people.com.cn/GB/shizheng/252/8652/8890/index.html), and [Rule of Law](https://web.archive.org/web/20021216103251/http://www.people.com.cn/GB/shizheng/252/8652/9078/index.html) (3 sections from the *Blue Book of the Chinese People* from Renminwang.)
+- {{% resource_link "101b2a1a-76f4-47c5-82a9-a6faf279d4b0" "Reforming the Residence Registration system" %}} (A collection of reports from Renminwang.)
+- {{% resource_link "ab8eb429-d934-4980-a2a6-a6840a695d6c" "3 Nong" %}}, {{% resource_link "7ba8fad8-7d47-4d01-86b6-010872bc57f7" "Urbanization" %}}, and {{% resource_link "09a324f2-5b82-42cd-89b7-10673d90a7c4" "Rule of Law" %}} (3 sections from the *Blue Book of the Chinese People* from Renminwang.)
 - Rural China Study (confirm new URL) (Maintained by the Center of China Rural Study at Central China Normal University in Wuhan, Hubei province.)
-- [Getting Peansant Workers Paid on Time](https://web.archive.org/web/20040803122600/http://www.southcn.com/news/community/shzt/nmggq/) (A collection of reports from Nanfangwang.)
+- {{% resource_link "fe6d4616-eb5e-4a44-b098-8e52ff15db13" "Getting Peansant Workers Paid on Time" %}} (A collection of reports from Nanfangwang.)
 
 {{< tdclose >}}{{< tdopen >}}
 Presentations
@@ -235,7 +235,7 @@ Review the articles we read in this unit.
 
 - Pretty girls are like freshly ground pepper - add a little to wherever the atmosphere is dull. (A well-known sentence from the web.)
 - Exercises \[Jianti ({{% resource_link "1b8c2375-8182-c61e-fb57-ab6423aea56e" "PDF" %}})::Fanti ({{% resource_link "63343de9-cf3d-bac4-9e83-ab503d3a2041" "PDF" %}})\]
-- Watch the [TOM.COM](http://www.tom.com/).
+- Watch the {{% resource_link "afd907cf-0a0d-4f9b-8c27-deb42a174bae" "TOM.COM" %}}.
 - Find out what seems to prove the Beijing Youth Daily journalist's doubts and what seems to conflict with it.
 - What do you make of the sensational makeover and the fake resumé scandal?
 - Would you evaluate Hao Lulu differently if there were not the fake resumé scandal?
@@ -274,17 +274,17 @@ Exercises \[Jianti ({{% resource_link "7431f87f-e677-a8b2-25e7-ad5589956f97" "PD
 {{< tdclose >}}{{< tdopen >}}
 
 - Browse the following web sites and/or pages and find an article for your 5-minute presentation. The article should be no less than half a page and no more than two pages. Please bring to class 9 hard copies for your classmates. When you do the presentation, explain why you have chosen the article, what the article is about, and how it relates to the issues we have discussed in class. Get prepared for questions also.
-- [Pretty Faces Produce Rice](http://news.sina.com.cn/guide/) (On-line book from [SINA.COM](http://www.sina.com/).)
-- [Making the Decision for Myself](http://news.sina.com.cn/guide/) (Hao Lulu's autobiography on-line from [SINA.COM](http://www.sina.com/).)
-- [Artificial Beauty Week](http://web.archive.org/web/20070305135531/http://fangtan.tom.com/subject/17.html) (02/02/04-02/06/04; [TOM.COM](http://www.tom.com/); Find out about other artificial beauties.)
-- [Artificial Beauties and Guys](http://web.archive.org/web/20041229133511/http://news.tom.com/hot/renzaomeinv/) ([TOM.COM](http://www.tom.com/))
-- [Era of Artificial Beauty](http://news.sina.com.cn/z/manmadebeauty/index.shtml) ([SINA.COM](http://www.sina.com/))
-- [I'm Crazy for Surgical Makeovers](https://web.archive.org/web/20040419100447/http://www.southcn.com/news/community/shzt/fl/) (Nanfang Net)
-- [The 53rd Miss World Pageant](http://eladies.sina.com.cn/f/missworld/index.html) ([SINA.COM](http://www.sina.com/))
-- [TVB Miss Hong Kong 2004](http://tvcity.tvb.com/special/misshk2004/index.html)
-- [Miss Chinese Cosmos Pageant 2004](http://www.voy.com/65717/1145.html) (Phoenix TV)
-- [Controversy over the First Artificial Beauty Pageant 2004](http://bj.xinhuanet.com/rzmvdszt/1.htm) (XINHUA)
-- ["Beauty Pageants" in Elementary and Secondary Schools](http://www.news.cn/) (XINHUA)
+- {{% resource_link "7e233b52-8849-4269-a618-fd73d186aba6" "Pretty Faces Produce Rice" %}} (On-line book from {{% resource_link "970e518e-0af3-470d-9593-672d5c4468cc" "SINA.COM" %}}.)
+- {{% resource_link "7e233b52-8849-4269-a618-fd73d186aba6" "Making the Decision for Myself" %}} (Hao Lulu's autobiography on-line from {{% resource_link "970e518e-0af3-470d-9593-672d5c4468cc" "SINA.COM" %}}.)
+- {{% resource_link "ee8c7bff-18af-477e-8f7b-1ebdfdd39a6e" "Artificial Beauty Week" %}} (02/02/04-02/06/04; {{% resource_link "afd907cf-0a0d-4f9b-8c27-deb42a174bae" "TOM.COM" %}}; Find out about other artificial beauties.)
+- {{% resource_link "49302a30-2683-451e-bee2-098fe540abe9" "Artificial Beauties and Guys" %}} ({{% resource_link "afd907cf-0a0d-4f9b-8c27-deb42a174bae" "TOM.COM" %}})
+- {{% resource_link "79753afb-0476-47ac-9aa8-9eddb0a54f65" "Era of Artificial Beauty" %}} ({{% resource_link "970e518e-0af3-470d-9593-672d5c4468cc" "SINA.COM" %}})
+- {{% resource_link "a349e58c-d069-4526-a721-d3e33a0383f6" "I'm Crazy for Surgical Makeovers" %}} (Nanfang Net)
+- {{% resource_link "a2123abe-656f-45f6-bb5e-19b8aaae3bb2" "The 53rd Miss World Pageant" %}} ({{% resource_link "970e518e-0af3-470d-9593-672d5c4468cc" "SINA.COM" %}})
+- {{% resource_link "953d2b36-62f5-476b-bcd3-194b3313b0d2" "TVB Miss Hong Kong 2004" %}}
+- {{% resource_link "04421f1b-b157-491c-8b9c-4b3e6c29c649" "Miss Chinese Cosmos Pageant 2004" %}} (Phoenix TV)
+- {{% resource_link "65d7efc7-5968-43a6-b350-7bf08d7b2258" "Controversy over the First Artificial Beauty Pageant 2004" %}} (XINHUA)
+- {{% resource_link "92cedc48-d5f2-4969-aa81-d400908955c8" "\"Beauty Pageants\" in Elementary and Secondary Schools" %}} (XINHUA)
 
 {{< tdclose >}}{{< tdopen >}}
 Presentations
@@ -368,18 +368,18 @@ Discuss: *The Road Home* and *Cell Phone*
 33
 {{< tdclose >}}{{< tdopen >}}
 
-- Yang Zhenning and Weng Fan: [SINA](http://news.sina.com.cn/z/yangzhhwengf/index.shtml): [SouthCN](https://web.archive.org/web/20041230080449/http://www.southcn.com/news/gdnews/sh/yangzhenning/)
-- One-night Stand: [SouthCN](https://web.archive.org/web/20030416232705/http://www.southcn.com/english/): [SINA](http://eladies.sina.com.cn/ss/yya.shtml)
-- Wenhui Bao (Shanghai): [Tonight, Let's Talk about Sex](http://web.archive.org/web/20060718025400/http://www.news365.com.cn/wxzt/wx_shehui/jywmtx/default.htm) (A number of "key" issues)
-- Homosexuality in China: [Wenhui (SH)](http://web.archive.org/web/20070223024526/http://www.news365.com.cn/wxzt/wx_shehui/zgtxlrdc/): [Latest Report on Gay People in China](http://www.chinadaily.com.cn/china/2007-07/24/content_5442476.htm):: [SINA(1)](http://tech.sina.com.cn/d/focus/gay/index.shtml): [SINA(2)](http://cul.sina.com.cn/focus/tongxl.html)
-- Educating Teenagers about Sex: [SINA campus](http://y.sina.com.cn/focus/sex/index.shtml): [The 2nd National Sex-culture Festival](http://news.163.com/special/s/sex041110.html)
-- Lu Deming: [Renmin](http://news.163.com/special/s/sex041110.html):[SINA](http://finance.sina.com.cn/nz/ssx/index.shtml): [China Sexology Association](http://www.chsa.org.cn/)
-- [My Zen](http://news.sina.com.cn/guide/)
+- Yang Zhenning and Weng Fan: {{% resource_link "adc2a797-8769-4506-944d-f20b3a97e687" "SINA" %}}: {{% resource_link "b07bdfe2-e014-4bd5-8754-e6860076d6ba" "SouthCN" %}}
+- One-night Stand: {{% resource_link "cd6eb50a-5a71-47c9-afcb-14ef6db76c9c" "SouthCN" %}}: {{% resource_link "7ea3c22d-ba63-4ccb-800a-c8d9e7e7861e" "SINA" %}}
+- Wenhui Bao (Shanghai): {{% resource_link "0d1116e0-43e0-4d20-ba3a-ea4ee903f5a2" "Tonight, Let's Talk about Sex" %}} (A number of "key" issues)
+- Homosexuality in China: {{% resource_link "38f3bb13-19f4-49e6-8329-7e92bdc4f703" "Wenhui (SH)" %}}: {{% resource_link "e6233777-7980-49da-975b-e4a7b23ef2ab" "Latest Report on Gay People in China" %}}:: {{% resource_link "73f3ce34-0c56-4a10-b09f-13bf0c61123c" "SINA(1)" %}}: {{% resource_link "3b503637-204c-41f5-b6ae-6d512197ee57" "SINA(2)" %}}
+- Educating Teenagers about Sex: {{% resource_link "c9fb65e5-a3a1-490e-b667-ee8a7ab14d1d" "SINA campus" %}}: {{% resource_link "a6b977bf-7531-4834-86d5-9e4da555dd27" "The 2nd National Sex-culture Festival" %}}
+- Lu Deming: {{% resource_link "a6b977bf-7531-4834-86d5-9e4da555dd27" "Renmin" %}}:{{% resource_link "a3b9d666-3724-4f54-a73f-cc4dc05b399a" "SINA" %}}: {{% resource_link "81d01cf4-324c-44a4-91b3-b67cfe50f9d8" "China Sexology Association" %}}
+- {{% resource_link "7e233b52-8849-4269-a618-fd73d186aba6" "My Zen" %}}
 - Mianmian: Sugar and other works: Panda Sex
-- Mu Zimei: [XinhuaBooks](http://www.news.cn/): [TOM](http://www.tom.com/): Critiques of the MuZimei Phenomenon at [SOHU](https://web.archive.org/web/20060619050305/http://club.sohu.com/zhuanti/muzimei/muzimei.htm): [SINA](https://web.archive.org/web/20060619050305/http://club.sohu.com/zhuanti/muzimei/muzimei.htm): [ENorth](http://www.enorth.com.cn/)
+- Mu Zimei: {{% resource_link "92cedc48-d5f2-4969-aa81-d400908955c8" "XinhuaBooks" %}}: {{% resource_link "afd907cf-0a0d-4f9b-8c27-deb42a174bae" "TOM" %}}: Critiques of the MuZimei Phenomenon at {{% resource_link "5d075a7d-38f1-4beb-b67c-5d66f200903d" "SOHU" %}}: {{% resource_link "5d075a7d-38f1-4beb-b67c-5d66f200903d" "SINA" %}}: {{% resource_link "c01fec7f-3e2b-4b8e-82b4-5f580f5d6852" "ENorth" %}}
 - Zhuying Qingtong: Huashang
-- Chunshu: [Beijing Kid](http://cul.sina.com.cn/liter/86.html): [The Joy that Lasted for as Long as 12 Hours](http://news.sina.com.cn/guide/): [Looking Up and Seeing the Big Dipper](http://news.sina.com.cn/guide/)
-- Zhao Ning: [Night Makeup](http://news.sina.com.cn/guide/)
+- Chunshu: {{% resource_link "da1b070d-9cb5-4347-9f69-07488ad6d944" "Beijing Kid" %}}: {{% resource_link "7e233b52-8849-4269-a618-fd73d186aba6" "The Joy that Lasted for as Long as 12 Hours" %}}: {{% resource_link "7e233b52-8849-4269-a618-fd73d186aba6" "Looking Up and Seeing the Big Dipper" %}}
+- Zhao Ning: {{% resource_link "7e233b52-8849-4269-a618-fd73d186aba6" "Night Makeup" %}}
 
 {{< tdclose >}}{{< tdopen >}}
 Presentations
